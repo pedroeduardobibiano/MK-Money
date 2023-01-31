@@ -15,6 +15,30 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-01-10T23:38:41.318Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-01-10T23:39:41.318Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-01-31T00:19:15.400Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte de Banana",
+      "category": "Alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2023-01-31T00:44:46.460Z",
+      "id": 5
     }
   ]
 }
